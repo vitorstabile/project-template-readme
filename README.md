@@ -39,7 +39,7 @@ mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis
 
 ### Application Deploy <a name="applicationdeploy"></a>
 
-<img align="center" src="img/img-example-w5688-h3713.jpg" width=300 height=500>_<br>_<sub> Fig 1 - Aplication Deploy </sub>
+<div align="center"> <src="img/img-example-w5688-h3713.jpg" width=300 height=500>_<br>_<sub> Fig 1 - Aplication Deploy </sub> </div>
 
 
 
