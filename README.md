@@ -192,6 +192,6 @@ https://unsplash.com/
 [github-shield]: https://img.shields.io/badge/my-github-green.svg
 [github-url]: https://github.com/vitorstabile
 [issues-shield]: https://img.shields.io/badge/link-issues-green.svg
-[issues-url]: https://github.com/othneildrew/project-template-readme/issues
+[issues-url]: https://github.com/vitorstabile/project-template-readme/issues
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
 [license-url]: https://github.com/vitorstabile/project-template-readme/blob/main/LICENSE.txt
