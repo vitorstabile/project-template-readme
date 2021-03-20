@@ -39,6 +39,8 @@ mauris eu tempor malesuada. Mauris feugiat vitae risus quis iaculis
 
 ### Application Deploy <a name="applicationdeploy"></a>
 
+[<img src="https://github.com/vitorstabile/project-template-readme/tree/main/img/img-example-w5688-h3713.jpg" width=300 height=500 >_<br>_<sub> Fig 1 - Aplication Deploy </sub>]
+
 
 
 # Contributors
